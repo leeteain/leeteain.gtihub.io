@@ -10,7 +10,12 @@
 
 위아래 확인후 수정
 
-inhyuk [5:56 PM] 
+teain
+
+숫자관려 기능키
+
+
+
 ctrl + 0 = 아트보드(종이맞추기)
 ctrl + 1 = 100%보기
 ctrl + 2 = 잠금
@@ -24,7 +29,9 @@ ctrl + 6 = 셀렉트 명령 반복
 ctrl + 7 = 클리핑 마스크
 ctrl + art + 7 = 클리핑 마스크 해제
 ctrl + 8 = 콤파운드(합체)
-ctrl + art + shift + 8 = 콤파운드(분리)
+ctrl + art + shift + 8 = 콤파운드(분리)t
+
+알파벳 수정
 
 ctrl + a = 전체선택
 ctrl + b = 뒤로 붙이기(같은자리)
